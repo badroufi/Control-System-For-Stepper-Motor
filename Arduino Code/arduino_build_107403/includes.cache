@@ -1,0 +1,27 @@
+[
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "C:\\Program Files\\WindowsApps\\ArduinoLLC.ArduinoIDE_1.8.39.0_x86__mdqgnx93n4wtt\\hardware\\arduino\\avr\\cores\\arduino"
+  },
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "C:\\Program Files\\WindowsApps\\ArduinoLLC.ArduinoIDE_1.8.39.0_x86__mdqgnx93n4wtt\\hardware\\arduino\\avr\\variants\\standard"
+  },
+  {
+    "Sourcefile": "C:\\Users\\bader\\AppData\\Local\\Temp\\arduino_build_107403\\sketch\\stepper_speedControl.ino.cpp",
+    "Include": "Stepper.h",
+    "Includepath": "C:\\Program Files\\WindowsApps\\ArduinoLLC.ArduinoIDE_1.8.39.0_x86__mdqgnx93n4wtt\\libraries\\Stepper\\src"
+  },
+  {
+    "Sourcefile": "C:\\Users\\bader\\AppData\\Local\\Temp\\arduino_build_107403\\sketch\\stepper_speedControl.ino.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Program Files\\WindowsApps\\ArduinoLLC.ArduinoIDE_1.8.39.0_x86__mdqgnx93n4wtt\\libraries\\Stepper\\src\\Stepper.cpp",
+    "Include": "",
+    "Includepath": null
+  }
+]
